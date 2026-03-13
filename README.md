@@ -1,4 +1,3 @@
-
 Python Qt File Translator → Markdown
 
 Tradutor de ficheiros feito em Python + Qt, que permite traduzir ficheiros de uma pasta para outra e converter automaticamente para Markdown (.md).
