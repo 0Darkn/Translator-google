@@ -1,4 +1,4 @@
-Criar um tradutor de arquivos completo com interface gráfica (GUI) usando Python e PyQt6 é um excelente projeto para o GitHub. Para a tradução, utilizaremos a biblioteca googletrans, que é uma interface gratuita para a API do Google Tradutor.
+Para a tradução, utilizaremos a biblioteca googletrans, que é uma interface gratuita para a API do Google Tradutor.
 Aqui está o código completo, estruturado e comentado para você publicar:
 Requisitos Práticos
 Antes de rodar, instale as bibliotecas necessárias:
