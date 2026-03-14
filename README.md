@@ -1,13 +1,13 @@
 
 - Esta versão:
 
-- ✔ interface PyQt5
-- ✔ usa Google Translate via googletrans
-- ✔ traduz todos os ficheiros .txt
-- ✔ gera Markdown válido (.md)
-- ✔ mantém parágrafos corretos
-- ✔ cria títulos automáticos
-- ✔ tem log na janela
+- - ✔ interface PyQt5
+- - ✔ usa Google Translate via googletrans
+- - ✔ traduz todos os ficheiros .txt
+- - ✔ gera Markdown válido (.md)
+- - ✔ mantém parágrafos corretos
+- - ✔ cria títulos automáticos
+- - ✔ tem log na janela
 
 
 ---
